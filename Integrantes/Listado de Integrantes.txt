@@ -1,0 +1,6 @@
+Proyecto de Bases de datos II - Software de sistema farmacéutico.
+
+Integrantes:
+Andrés Felipe Marín Madrid
+Luis Carlos Chaverra Córdoba
+Eligio Cuesta Machado
